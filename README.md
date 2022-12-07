@@ -1,5 +1,4 @@
 # Datascience_laptop_dataset_analysis
-In this repository you can find a project in collaboration with Gabriele Dominelli.
 
 This dataset on laptops and their technical specs was imported into this notebook from kaddle. 
 There are 1302 rows in this dataset, and each one represents a separate laptop. 
